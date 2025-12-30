@@ -16,7 +16,7 @@ verification: {
 },
   title: "AMORIM GÁS - Gás e Água Mineral com Entrega Rápida",
   description:
-    "AMORIM GÁS oferece entrega rápida e segura de gás de cozinha e água mineral. Atendimento humanizado, produtos certificados e logística otimizada.",
+    "AMORIM GÁS oferece entrega rápida e segura de gás de cozinha e água mineral Itapuã entorno e Brasília DF. Atendimento ágil e humanizado, produtos certificados e logística otimizada.",
   generator: "v0.app",
   keywords: [
     "gás 13kg",
@@ -25,7 +25,14 @@ verification: {
     "distribuidora de gás",
     "AMORIM GÁS",
     "botijão de gás",
-    "entrega rápida",
+    "entrega rápida", 
+    "gás no itapuã",
+  "entrega de gás itapuã",
+  "água mineral itapuã",
+  "distribuidora de gás itapuã",
+  "gás brasília df",
+  "amorim gás",
+  
   ],
   icons: {
     icon: [
