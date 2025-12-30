@@ -11,7 +11,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
 verification: {
-    google: "usbXiPYGwngB7ktLUE5bWNm1lYriGFFXwhK8JWc4woE" />"
+    google: "usbXiPYGwngB7ktLUE5bWNm1lYriGFFXwhK8JWc4woE"
   
 }
   title: "AMORIM GÁS - Gás e Água Mineral com Entrega Rápida",
