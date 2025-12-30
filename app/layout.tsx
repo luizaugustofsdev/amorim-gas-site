@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 verification: {
     google: "usbXiPYGwngB7ktLUE5bWNm1lYriGFFXwhK8JWc4woE"
   
-}
+},
   title: "AMORIM GÁS - Gás e Água Mineral com Entrega Rápida",
   description:
     "AMORIM GÁS oferece entrega rápida e segura de gás de cozinha e água mineral. Atendimento humanizado, produtos certificados e logística otimizada.",
