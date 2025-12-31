@@ -39,7 +39,6 @@ export default function Home() {
           <Link href="/gas-no-itapua">Gás no Itapuã</Link>
           <Link href="/agua-mineral-no-itapua">Água mineral no Itapuã</Link>
           <Link href="/entrega-de-gas-brasilia">Entrega de gás em Brasília</Link>
-          <Link href="/entrega-de-gas-itapua-df">Entrega de gás no Itapuã DF</Link>
         </div>
       </section>
 
