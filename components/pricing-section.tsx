@@ -41,7 +41,6 @@ export default function PricingSection() {
               )}
               <CardContent className="p-8 text-center space-y-4">
                 <h3 className="text-xl font-bold text-[#05612C]">{item.title}</h3>
-                <div className="text-4xl font-bold text-[#0A8F42]">{item.price}</div>
                 <p className="text-sm text-[#4A4A4A]">{item.description}</p>
                 <Button className="w-full bg-[#0A8F42] hover:bg-[#05612C] mt-6">
                   <a
