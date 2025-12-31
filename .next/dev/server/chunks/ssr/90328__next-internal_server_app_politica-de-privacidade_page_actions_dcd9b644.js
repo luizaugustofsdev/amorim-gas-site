@@ -1,7 +1,0 @@
-module.exports = [
-"[project]/Desktop/AMORIM GÁS SITE Pronto/.next-internal/server/app/politica-de-privacidade/page/actions.js [app-rsc] (server actions loader, ecmascript)", ((__turbopack_context__, module, exports) => {
-
-}),
-];
-
-//# sourceMappingURL=90328__next-internal_server_app_politica-de-privacidade_page_actions_dcd9b644.js.map

@@ -36,6 +36,33 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
 }
 
 
+// Validate ../../../app/agua-mineral-no-itapua/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/agua-mineral-no-itapua">> = Specific
+  const handler = {} as typeof import("../../../app/agua-mineral-no-itapua/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/entrega-de-gas-brasilia/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/entrega-de-gas-brasilia">> = Specific
+  const handler = {} as typeof import("../../../app/entrega-de-gas-brasilia/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/gas-no-itapua/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/gas-no-itapua">> = Specific
+  const handler = {} as typeof import("../../../app/gas-no-itapua/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../../app/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/">> = Specific
